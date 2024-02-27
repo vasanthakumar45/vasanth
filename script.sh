@@ -1,3 +1,3 @@
-echo " Hi everyone today is my papa birthday"
+#!/bin/bash
 
-echo " I really enjoy 27/02 this day "
+echo " Hello everyone today evening i meet to my girlfriend" 
